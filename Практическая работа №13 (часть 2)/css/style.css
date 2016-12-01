@@ -1,0 +1,54 @@
+*{margin:0; padding:0}
+			.clear{clear:both}
+			.wr {width:780px; margin:0 auto; font-family:Verdana}
+			.wr .header {background-image:url(../img/fon.jpg);text-transform:uppercase; position:relative; border-bottom:2px solid #ffffff}
+			.wr .header .img_i {position:absolute; left:600px; top:10px}
+			.wr .header .h_top {height:45px;font-family:LehmannC; background-color:#ffffff; border-bottom:2px solid #00378a; font-size:10px;}
+			.wr .header .h_top .search {float:left; padding-right:120px; margin-top:15px; margin-left:15px; color:#001f92;}
+			.wr .header .h_top .menu_1 {padding-top:23px}
+			.wr .header .h_top .menu_1 ul {list-style-image:url(../img/marker.jpg);}
+			.wr .header .h_top .menu_1 ul li {float:left; padding-right:30px}
+			.wr .header .h_top .menu_1 ul li a {display:block; text-decoration:none; font-size:8px}
+			.wr .header .h_c {height:175px;border-top:2px solid #ffffff; }
+			.wr .header .h_c h1 {font-size:22px; color:#ffffff; padding-top:74px; }
+			.wr .header .h_c p {font-size:8px; color:#ffffff}
+			.wr .header .h_c .img_S {float:left; padding-top:70px; padding-left:60px; padding-right:5px}
+			.wr .header .h_b {box-shadow: 0 0 5px; box-shadow:inset 0 0 5px; height:45px; background-image: url(../img/fon_menu.jpg); border-top:2px solid #ffffff;border-radius:780px/55px 55px 0 0;}
+			.wr .header .h_b .ul {width:550px; height:45px; margin:0 auto;}
+			.wr .header .h_b .ul ul {list-style:none; }
+			.wr .header .h_b .ul ul li {float:left;  padding:0 18px 15px 18px; font-size:8px; text-transform:uppercase;}
+			.wr .header .h_b .ul ul li a {display:block; text-decoration:none;color:#ffffff;font-weight: bold;} 
+			
+			.wr .center {background: -webkit-linear-gradient(top,#8cc4f3, #276499 ); background: -moz-linear-gradient(top,#8cc4f3, #276499 );background: -o-linear-gradient(top,#8cc4f3, #276499 );background: -ms-linear-gradient(top,#8cc4f3, #276499 ); border-bottom:4px solid #ffffff; border:2px 0 2px 0 solid #ffffff; box-shadow: inset 0 0 10px;}
+			.wr .center .c_left {float:left; width:213px; font-size:12px; color:#ffffff;}
+			.wr .center .c_left .c_l_1 {background-image:url(../img/fon_ul.jpg); height:43px;}
+			.wr .center .c_left .c_l_1 ul {padding:10px 0 0 20px; list-style-image:url(../img/marker_2.png);font-size:17px}
+			.wr .center .c_left .c_l_2 {border-bottom:2px solid #396f9d; font-size:13px; box-shadow:0 2px #9fc8eb; padding:10px}
+			.wr .center .c_left .c_l_2 p span {color:#ffc766}
+			.wr .center .c_left .c_l_3 { padding:10px}
+			.wr .center .c_left .c_l_3 .img_l {float:left; margin-right:10px}
+			.wr .center .c_left .c_l_3 {list-style-position:inside}
+			.wr .center .c_left .c_l_3 .c_l_ul_1 ul {list-style-image:url(../img/marker_2.png); padding-left:10px}
+			.wr .center .c_left .c_l_3 .c_l_ul_2 ul  {list-style:none}
+			.wr .center .c_left .c_l_3 .c_l_ul_3 ul {list-style:none}
+			.wr .center .c_left .c_l_3 .c_l_ul_3 ul li a {color:#ffffff;text-shadow:1px 1px #000000}
+			
+			.wr .center .c_right {border-left:1px solid #122e47; margin-left:215px; box-shadow:-2px 0px 1px #194264; }
+			.wr .center .c_right .c_r_1 { padding:10px; color:#ffffff;font-size:15px; border-bottom:2px solid #396f9d; box-shadow:0 2px #9fc8eb;}
+			.wr .center .c_right .c_r_1 ul {list-style-position:inside;list-style-image:url(../img/marker_2.png)}
+			.wr .center .c_right .c_r_1 p span {color:#005D79}
+			.wr .center .c_right .c_r_2 {color:#FEA200;font-size:15px; padding:10px}
+			.wr .center .c_right .c_r_2 span {color:#ffffff;text-dicoration:underline;}
+			
+			.wr .fotter .f_menu {box-shadow: 0 0 5px; box-shadow:inset 0 0 5px; height:45px; background-image: url(../img/fon_menu.jpg); border-radius:0 0 760px 760px/55px;}
+			.wr .fotter .f_menu .ul {width:550px; height:45px; margin:0 auto;}
+			.wr .fotter .f_menu .ul ul {list-style:none;}
+			.wr .fotter .f_menu .ul ul li {float:left;font-size:8px; padding:17px 18px 0 18px;text-transform:uppercase; }
+			.wr .fotter .f_menu .ul ul li a {display:block; text-decoration:none; color:#ffffff;font-weight:bold;} 
+			
+			.wr .fotter .f_bottom {width:400px;margin:0 auto;height:75px}
+			.wr .fotter .f_bottom p {font-size:12px; margin-left:110px;}
+			.wr .fotter .f_bottom .ul_1 {margin-left:90px;}
+			.wr .fotter .f_bottom ul {list-style:none;}
+			.wr .fotter .f_bottom ul li {float:left; padding:0 6px 0 6px; font-size:10px;}
+			.item {padding:5px; }
